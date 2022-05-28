@@ -9,8 +9,6 @@ A Node.js command-line application that takes in information about employees on 
 * Inquirer
 
 ## Walk Through Videos
-Part 1: https://drive.google.com/file/d/1tqV2GcixZwvGfSl-Ff1859e4NsfbacYf/view (GET, POST routes)
-
-Part 2: https://drive.google.com/file/d/1KllFv1ZyMposm5X_vIODX1EDSrQ8Lup6/view (PUT, DELETE routes)
+https://drive.google.com/file/d/1eAFck6yvNK_t0Rpb4I7ziIAUO4o0VMQ9/view
 
 ### ©️2022 Echeta Okeke
