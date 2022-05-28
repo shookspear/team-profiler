@@ -12,19 +12,19 @@ test('creates Engineer object', () => {
 test('tests if correct Name is returned', () => {
     const engineer = new Engineer('John', '3', 'sixteen@bible.com', 'gituser')
 
-    expect(engineer.getName()).toBe('Tester');
+    expect(engineer.getName()).toBe('John');
 });
 
 test('tests if correct ID is returned', () => {
     const engineer = new Engineer('John', '3', 'sixteen@bible.com', 'gituser')
 
-    expect(engineer.getId()).toBe('2');
+    expect(engineer.getId()).toBe('3');
 });
 
 test('tests if correct Email is returned', () => {
     const engineer = new Engineer('John', '3', 'sixteen@bible.com', 'gituser')
 
-    expect(engineer.getEmail()).toBe('testing@mail.com');
+    expect(engineer.getEmail()).toBe('sixteen@bible.com');
 });
 
 test('tests if correct GitHub user is returned', () => {
