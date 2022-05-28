@@ -7,7 +7,7 @@ const Engineer = require("./lib/Engineer");
 const Intern = require("./lib/Intern");
 
 const OUTPUT_DIR = path.resolve(__dirname, "dist");
-const outputPath = path.join(OUTPUT_DIR, "myteam.html");
+const outputPath = path.join(OUTPUT_DIR, "index.html");
 
 const render = require("./lib/htmlRenderer");
 
