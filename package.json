@@ -1,0 +1,27 @@
+{
+  "name": "team-profiler",
+  "version": "1.0.0",
+  "description": "Module 10 - Object-Oriented Programming Challenge: Team Profile Generator",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shookspear/team-profiler.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shookspear/team-profiler/issues"
+  },
+  "homepage": "https://github.com/shookspear/team-profiler#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "jest": "^28.1.0"
+  }
+}
